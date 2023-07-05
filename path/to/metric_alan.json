@@ -1,11 +1,2 @@
-{"unique_key":"2022-12-Alice","name":"Alice","date":"2022-12","age":25.0,"payment_id":null,"organisation_id":null,"created_at":null,"amount":null,"currency":null,"status":null}
-{"unique_key":"2023-01-Bob","name":"Bob","date":"2023-01","age":30.0,"payment_id":null,"organisation_id":null,"created_at":null,"amount":null,"currency":null,"status":null}
-{"unique_key":"2023-01-Charlie","name":"Charlie","date":"2023-01","age":36.0,"payment_id":null,"organisation_id":null,"created_at":null,"amount":null,"currency":null,"status":null}
-{"unique_key":"2023-02-Antoine","name":"Antoine","date":"2023-02","age":40.0,"payment_id":null,"organisation_id":null,"created_at":null,"amount":null,"currency":null,"status":null}
-{"unique_key":"2023-02-Didier","name":"Didier","date":"2023-02","age":40.0,"payment_id":null,"organisation_id":null,"created_at":null,"amount":null,"currency":null,"status":null}
-{"unique_key":"2023-02-Philipe","name":"Philipe","date":"2023-02","age":42.0,"payment_id":null,"organisation_id":null,"created_at":null,"amount":null,"currency":null,"status":null}
-{"unique_key":"2023-03-Clement","name":"Clement","date":"2023-03","age":45.0,"payment_id":null,"organisation_id":null,"created_at":null,"amount":null,"currency":null,"status":null}
-{"unique_key":"2023-03-Cyril","name":"Cyril","date":"2023-03","age":45.0,"payment_id":null,"organisation_id":null,"created_at":null,"amount":null,"currency":null,"status":null}
-{"unique_key":"2023-03-Victor","name":"Victor","date":"2023-03","age":46.0,"payment_id":null,"organisation_id":null,"created_at":null,"amount":null,"currency":null,"status":null}
-{"unique_key":"2023-01-10-001","name":null,"date":null,"age":null,"payment_id":"001","organisation_id":"abcde","created_at":"2023-01-10","amount":50.0,"currency":"EUR","status":"PENDING"}
-{"unique_key":"2023-01-27-002","name":null,"date":null,"age":null,"payment_id":"002","organisation_id":"fghij","created_at":"2023-01-27","amount":30.0,"currency":"EUR","status":"PROCESSED"}
+{"unique_key":"2023-01-10-001","payment_id":"001","organisation_id":"abcde","created_at":"2023-01-10","amount":50,"currency":"EUR","status":"PENDING"}
+{"unique_key":"2023-01-27-002","payment_id":"002","organisation_id":"fghij","created_at":"2023-01-27","amount":30,"currency":"EUR","status":"PROCESSED"}
