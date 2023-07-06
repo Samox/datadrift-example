@@ -1,0 +1,2 @@
+{"unique_key":"2023-01-1","payment_id":"1","organisation_id":"abcde","created_at":"2023-01","amount":50,"currency":"EUR","status":"PENDING"}
+{"unique_key":"2023-01-2","payment_id":"2","organisation_id":"fghij","created_at":"2023-01","amount":30,"currency":"EUR","status":"PROCESSED"}
