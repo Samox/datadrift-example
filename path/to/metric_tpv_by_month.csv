@@ -2,3 +2,5 @@ unique_key,payment_id,organisation_id,created_at,amount,currency,status
 2023-01-10-1,1,abcde,2023-01-10,50,EUR,PENDING
 2023-01-27-2,2,fghij,2023-01-27,30,EUR,PROCESSED
 2023-02-19-3,3,klmno,2023-02-19,20,EUR,PROCESSED
+2023-01-1,1,abcde,2023-01,50,EUR,PENDING
+2023-01-2,2,fghij,2023-01,30,EUR,PROCESSED
